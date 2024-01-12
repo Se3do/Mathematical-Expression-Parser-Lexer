@@ -1,4 +1,4 @@
-# Mathematical Expression Parser
+# Mathematical Expression Parser\Lexer
 
 ## Project Overview
 
